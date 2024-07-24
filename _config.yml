@@ -1,0 +1,9 @@
+remote_theme: Huxpro/huxpro.github.io@master
+plugins:
+- jekyll-remote-theme
+
+title: Fruii Recognizer
+description: An image classification API that classifies 20 different types of Fruit around the world
+
+author:
+  name: Mohammad Sakib Hasan
